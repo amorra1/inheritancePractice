@@ -1,7 +1,7 @@
 <h1>Java Classes and Valid Date</h1>
 
 <h2>Problem Description</h2>
-Lab consisted of creating classes and inherited classes to store information on university students and graduate students.
+Lab consisted of creating classes and inherited classes to store information on university students and graduate students such as courses taken and grades acheived in those courses.
 <br />
 
 
